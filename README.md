@@ -1,4 +1,4 @@
-# ERC20-OpenZeppelin-Template
+# How to use?
 
 How to Use OpenZeppelin Template?<br/>
 Just replace the contract part in the <strong>token.sol</strong> source with the part you want.<br/>
