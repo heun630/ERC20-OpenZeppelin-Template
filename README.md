@@ -9,7 +9,7 @@ token.sol 소스에 있는 계약 부분을 원하는 부분으로 바꾸면 됩
 아래 사진에 드래그 되는 내용을 바꾸면 됩니다.<br/> 
 
 ```
-[example]<br/>
+[example]
 Token Name : ForOneTo
 Token Symbol : FOT
 Demicals : 3
